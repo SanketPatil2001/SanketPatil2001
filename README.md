@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Patil</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A Computer Engineering bachelor and a passionate Software Developer</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/SanketPatil2001](https://github.com/SanketPatil2001)
 
 - 💬 Ask me about **Python, Java & DSA**
 
